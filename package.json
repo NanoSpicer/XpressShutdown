@@ -1,0 +1,19 @@
+{
+  "name": "servidorapagos",
+  "version": "1.0.0",
+  "description": "Server que apaga s'ordenador",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "servidor",
+    "express",
+    "rest"
+  ],
+  "author": "Pèx",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
