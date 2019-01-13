@@ -20,7 +20,8 @@ Just run this app and get the server running in your local network.
 ### Installation
 1. `git clone https://github.con/NanoSpicer/XpressShutdown`
 2. `^Shift; right-click` into folder and `Open command line here`
-3. `node index.js`
+3. `npm install`
+4. `node index.js`
 
 Easy as cake.
 
