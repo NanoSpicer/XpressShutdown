@@ -1,5 +1,5 @@
 # XpressShutdown
-Shutdown your machine from your very own network; remotely.
+Shutdown your machine from your very own network; remotely
 
 # Background
 * You're like me and you don't have TV on your bedroom but you have a PC connected to your LAN.
@@ -9,7 +9,7 @@ Shutdown your machine from your very own network; remotely.
 # Requirements
 * Be laying in your bed
 * Use a `Windows` machine otherwise the hardcoded command won't work
-* Have `node` installed in your machine.
+* Have `nodejs` installed in your machine.
 
 # Welp; Worry NOT, I'm here to save the day (at least mine)
 
