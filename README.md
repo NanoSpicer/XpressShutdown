@@ -1,5 +1,5 @@
 # XpressShutdown
-Shutdown your machine from your very own network; remotely.
+Shutdown your machine from your very own network; remotely
 
 # Background
 * You're like me and you don't have TV on your bedroom but you have a PC connected to your LAN.
@@ -9,7 +9,7 @@ Shutdown your machine from your very own network; remotely.
 # Requirements
 * Be laying in your bed
 * Use a `Windows` machine otherwise the hardcoded command won't work
-* Have `node` installed in your machine.
+* Have `nodejs` installed in your machine.
 
 # Welp; Worry NOT, I'm here to save the day (at least mine)
 
@@ -18,7 +18,7 @@ Just run this app and get the server running in your local network.
 ## Using this masterpiece
 
 ### Installation
-1. `git clone https://github.con/NanoSpicer/XpressShutdown`
+1. `git clone https://github.com/NanoSpicer/XpressShutdown`
 2. `^Shift; right-click` into folder and `Open command line here`
 3. `npm install`
 4. `node index.js`
