@@ -8,8 +8,7 @@ const router = express.Router();
 
 function getIP4() {
     const ifaces = os.networkInterfaces();
-    const addresses = ifaces[`Conexión de área local`];
-    console.log(addresses.length)
+    const addresses = ifaces[`Conexión de área local`]
     return addresses.find(addr => addr.family === 'IPv4')?.address;
 }
 
